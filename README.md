@@ -5,4 +5,4 @@ For credits to the contributers, downloads for; Android, iOS, etc and more infor
 http://nightly.pw/pipboy/
 
 # Where is the .xcodeproj?
-After I've fixed some major bugs I'll release the .ipa & .xcodeproj files. The application is working, mostly all of the app isn't coded in Swift, it's all in HTML so the .xcodeproj isn't required yet if you want to contribute. 
+After I've fixed some major bugs I'll release the .ipa & .xcodeproj files. But mostly all of the app isn't coded in Swift, it's all in HTML so the .xcodeproj isn't required yet if you want to contribute. 
