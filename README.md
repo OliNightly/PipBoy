@@ -12,3 +12,5 @@ http://nightly.pw/pipboy/
 5. Skip the ``not PLIST_STRING`` error, that happens for all IPA's.
 6. Verify the profile in Settings.
 7. You should now have Pip-Boy on your iDevice!
+
+If there is any updates, it should do it automatically without you even need to use Cydia Impactor.
