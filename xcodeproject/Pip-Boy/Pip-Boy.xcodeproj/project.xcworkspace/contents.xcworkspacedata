@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:/Users/oliverhumphrey/Downloads/web load/Pip-Boy.xcodeproj">
+      location = "absolute:/Users/oliverhumphrey/Documents/GitHubNightly/PipBoy-iOS/xcodeproject/Pip-Boy">
    </FileRef>
 </Workspace>

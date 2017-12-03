@@ -18,11 +18,11 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		CF06C0551FD4667F00907402 /* Pip-Boy.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Pip-Boy.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		CF6A1C111FD2D8EE00FCA786 /* FalloutPB-Featured.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "FalloutPB-Featured.jpg"; sourceTree = "<group>"; };
 		CF6A1C161FD2E94900FCA786 /* AVFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AVFoundation.framework; path = System/Library/Frameworks/AVFoundation.framework; sourceTree = SDKROOT; };
 		CF6A1C181FD2E95600FCA786 /* WebKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = WebKit.framework; path = System/Library/Frameworks/WebKit.framework; sourceTree = SDKROOT; };
 		CF6A1C1A1FD2EAEF00FCA786 /* MapKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MapKit.framework; path = System/Library/Frameworks/MapKit.framework; sourceTree = SDKROOT; };
-		DE0599F51DFD93B200D19D17 /* Pip-Boy.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; name = "Pip-Boy.app"; path = "/Users/oliverhumphrey/Documents/GitHubNightly/PipBoy-iOS/xcodeproject/Pip-Boy/build/Release-iphoneos/Pip-Boy.app"; sourceTree = "<absolute>"; };
 		DE0599F81DFD93B200D19D17 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		DE0599FA1DFD93B200D19D17 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		DE0599FD1DFD93B200D19D17 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -68,6 +68,7 @@
 				CF6A1C151FD2E94900FCA786 /* Frameworks */,
 				DE0599F71DFD93B200D19D17 /* Pip-Boy */,
 				CF8ED6F31FD43B3800277834 /* Products */,
+				CF06C0551FD4667F00907402 /* Pip-Boy.app */,
 			);
 			sourceTree = "<group>";
 		};
@@ -101,7 +102,7 @@
 			);
 			name = "Pip-Boy";
 			productName = "web load";
-			productReference = DE0599F51DFD93B200D19D17 /* Pip-Boy.app */;
+			productReference = CF06C0551FD4667F00907402 /* Pip-Boy.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
