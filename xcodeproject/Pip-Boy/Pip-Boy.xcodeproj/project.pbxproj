@@ -22,7 +22,7 @@
 		CF6A1C161FD2E94900FCA786 /* AVFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AVFoundation.framework; path = System/Library/Frameworks/AVFoundation.framework; sourceTree = SDKROOT; };
 		CF6A1C181FD2E95600FCA786 /* WebKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = WebKit.framework; path = System/Library/Frameworks/WebKit.framework; sourceTree = SDKROOT; };
 		CF6A1C1A1FD2EAEF00FCA786 /* MapKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MapKit.framework; path = System/Library/Frameworks/MapKit.framework; sourceTree = SDKROOT; };
-		DE0599F51DFD93B200D19D17 /* Pip-Boy.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Pip-Boy.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		DE0599F51DFD93B200D19D17 /* Pip-Boy.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; name = "Pip-Boy.app"; path = "/Users/oliverhumphrey/Documents/GitHubNightly/PipBoy-iOS/xcodeproject/Pip-Boy/build/Release-iphoneos/Pip-Boy.app"; sourceTree = "<absolute>"; };
 		DE0599F81DFD93B200D19D17 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		DE0599FA1DFD93B200D19D17 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		DE0599FD1DFD93B200D19D17 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -54,22 +54,21 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
+		CF8ED6F31FD43B3800277834 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
 		DE0599EC1DFD93B100D19D17 = {
 			isa = PBXGroup;
 			children = (
 				CF6A1C111FD2D8EE00FCA786 /* FalloutPB-Featured.jpg */,
-				DE0599F71DFD93B200D19D17 /* Pip-Boy */,
-				DE0599F61DFD93B200D19D17 /* Products */,
 				CF6A1C151FD2E94900FCA786 /* Frameworks */,
+				DE0599F71DFD93B200D19D17 /* Pip-Boy */,
+				CF8ED6F31FD43B3800277834 /* Products */,
 			);
-			sourceTree = "<group>";
-		};
-		DE0599F61DFD93B200D19D17 /* Products */ = {
-			isa = PBXGroup;
-			children = (
-				DE0599F51DFD93B200D19D17 /* Pip-Boy.app */,
-			);
-			name = Products;
 			sourceTree = "<group>";
 		};
 		DE0599F71DFD93B200D19D17 /* Pip-Boy */ = {
@@ -136,7 +135,7 @@
 				Base,
 			);
 			mainGroup = DE0599EC1DFD93B100D19D17;
-			productRefGroup = DE0599F61DFD93B200D19D17 /* Products */;
+			productRefGroup = DE0599EC1DFD93B100D19D17;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
