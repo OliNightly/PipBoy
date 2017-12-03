@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ApplicationProperties</key>
+	<dict>
+		<key>ApplicationPath</key>
+		<string>Applications/Pip-Boy.app</string>
+		<key>CFBundleIdentifier</key>
+		<string>com.nightly.pipboy</string>
+		<key>CFBundleShortVersionString</key>
+		<string>1.0</string>
+		<key>CFBundleVersion</key>
+		<string>1</string>
+		<key>SigningIdentity</key>
+		<string>iPhone Developer: oliver.humphrey2005@icloud.com (GJWTXG37E4)</string>
+	</dict>
+	<key>ArchiveVersion</key>
+	<integer>2</integer>
+	<key>CreationDate</key>
+	<date>2017-12-03T13:43:47Z</date>
+	<key>Name</key>
+	<string>Pip-Boy</string>
+	<key>SchemeName</key>
+	<string>Pip-Boy</string>
+</dict>
+</plist>

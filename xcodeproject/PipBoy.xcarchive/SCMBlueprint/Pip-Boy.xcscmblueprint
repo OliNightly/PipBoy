@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintLocationsKey" : {
+    "87E4392618A22E31399EDAC43202DE99F4370509" : {
+      "DVTSourceControlBranchIdentifierKey" : "master",
+      "DVTSourceControlLocationRevisionKey" : "b4f2da2c019d835bec22d623c7f32eb9e228646e",
+      "DVTSourceControlBranchOptionsKey" : 4,
+      "DVTSourceControlWorkspaceBlueprintLocationTypeKey" : "DVTSourceControlBranch"
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "87E4392618A22E31399EDAC43202DE99F4370509",
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "5A5580A5-EA74-41CB-ABEF-618167326E3A",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "87E4392618A22E31399EDAC43202DE99F4370509" : "PipBoy-iOS\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Pip-Boy",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "xcodeproject\/Pip-Boy\/Pip-Boy.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/OliNightly\/PipBoy-iOS.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "87E4392618A22E31399EDAC43202DE99F4370509"
+    }
+  ]
+}
