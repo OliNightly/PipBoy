@@ -1,6 +1,8 @@
 # Pip-Boy
 Your personal Pip-Boy for your iOS Device.
 
+**WARNING:** Due to iOS's limitations, some of the features of Pip-Boy have been removed. The map will have to be a still image & I have to think of a new idea for the data & inventory tabs. 
+
 For credits to the contributers, downloads for; Android, iOS, etc and more information; visit the official website.
 http://nightly.pw/pipboy/
 
