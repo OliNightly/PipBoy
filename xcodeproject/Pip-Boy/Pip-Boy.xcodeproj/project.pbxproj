@@ -10,7 +10,6 @@
 		CF6A1C121FD2D8EE00FCA786 /* FalloutPB-Featured.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CF6A1C111FD2D8EE00FCA786 /* FalloutPB-Featured.jpg */; };
 		CF6A1C171FD2E94900FCA786 /* AVFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CF6A1C161FD2E94900FCA786 /* AVFoundation.framework */; settings = {ATTRIBUTES = (Required, ); }; };
 		CF6A1C1B1FD2EAEF00FCA786 /* MapKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CF6A1C1A1FD2EAEF00FCA786 /* MapKit.framework */; };
-		CF7B52E21FD43035007AE817 /* icon.png in Resources */ = {isa = PBXBuildFile; fileRef = CF7B52E11FD43035007AE817 /* icon.png */; };
 		DE0599F91DFD93B200D19D17 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE0599F81DFD93B200D19D17 /* AppDelegate.swift */; };
 		DE0599FB1DFD93B200D19D17 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE0599FA1DFD93B200D19D17 /* ViewController.swift */; };
 		DE0599FE1DFD93B200D19D17 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DE0599FC1DFD93B200D19D17 /* Main.storyboard */; };
@@ -23,7 +22,6 @@
 		CF6A1C161FD2E94900FCA786 /* AVFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AVFoundation.framework; path = System/Library/Frameworks/AVFoundation.framework; sourceTree = SDKROOT; };
 		CF6A1C181FD2E95600FCA786 /* WebKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = WebKit.framework; path = System/Library/Frameworks/WebKit.framework; sourceTree = SDKROOT; };
 		CF6A1C1A1FD2EAEF00FCA786 /* MapKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MapKit.framework; path = System/Library/Frameworks/MapKit.framework; sourceTree = SDKROOT; };
-		CF7B52E11FD43035007AE817 /* icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = icon.png; path = ../../../Downloads/icon.png; sourceTree = "<group>"; };
 		DE0599F51DFD93B200D19D17 /* Pip-Boy.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Pip-Boy.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		DE0599F81DFD93B200D19D17 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		DE0599FA1DFD93B200D19D17 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -81,7 +79,6 @@
 				DE0599FA1DFD93B200D19D17 /* ViewController.swift */,
 				DE0599FC1DFD93B200D19D17 /* Main.storyboard */,
 				DE0599FF1DFD93B200D19D17 /* Assets.xcassets */,
-				CF7B52E11FD43035007AE817 /* icon.png */,
 				DE059A011DFD93B200D19D17 /* LaunchScreen.storyboard */,
 				DE059A041DFD93B200D19D17 /* Info.plist */,
 			);
@@ -154,7 +151,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				DE059A031DFD93B200D19D17 /* LaunchScreen.storyboard in Resources */,
-				CF7B52E21FD43035007AE817 /* icon.png in Resources */,
 				DE059A001DFD93B200D19D17 /* Assets.xcassets in Resources */,
 				DE0599FE1DFD93B200D19D17 /* Main.storyboard in Resources */,
 				CF6A1C121FD2D8EE00FCA786 /* FalloutPB-Featured.jpg in Resources */,

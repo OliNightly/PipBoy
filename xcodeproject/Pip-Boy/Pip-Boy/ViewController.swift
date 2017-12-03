@@ -14,10 +14,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
-        
-        if myWebView.boolValue {
-            myWebView.mediaPlaybackRequiresUserAction = NO;
-        }
+
         
         let url = URL(string: "http://nightly.pw/pipboy/ios/")
         myWebView.loadRequest(URLRequest(url: url!))
