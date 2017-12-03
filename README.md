@@ -1,7 +1,7 @@
 # Pip-Boy
 Your personal Pip-Boy for your iOS Device.
 
-**WARNING:** Due to iOS's limitations, some of the features of Pip-Boy have been removed. The map will have to be a still image & I have to think of a new idea for the data & inventory tabs. 
+**WARNING:** Due to iOS's limitations, some of the features of Pip-Boy have been removed. The map will have to be a still image & I have to think of new ideas for the data & inventory tabs. 
 
 **Contents:**
 
