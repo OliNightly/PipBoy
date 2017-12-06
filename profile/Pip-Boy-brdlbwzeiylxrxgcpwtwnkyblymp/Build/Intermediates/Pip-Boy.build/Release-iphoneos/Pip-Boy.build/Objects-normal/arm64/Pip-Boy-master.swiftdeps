@@ -1,0 +1,6 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
+options: "caadf2aa97df932625b5045e05778cfc"
+build_time: [565905509, 646319000]
+inputs:
+  "/Users/oliverhumphrey/Documents/GitHubNightly/PipBoy-iOS/xcodeproject/Pip-Boy/Pip-Boy/ViewController.swift": [9223372036854775807, 0]
+  "/Users/oliverhumphrey/Documents/GitHubNightly/PipBoy-iOS/xcodeproject/Pip-Boy/Pip-Boy/AppDelegate.swift": [9223372036854775807, 0]
