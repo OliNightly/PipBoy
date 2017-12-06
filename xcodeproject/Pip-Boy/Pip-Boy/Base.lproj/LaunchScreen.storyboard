@@ -21,8 +21,8 @@
                         <rect key="frame" x="0.0" y="0.0" width="667" height="375"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="imageedit_2_7684581164.jpg" translatesAutoresizingMaskIntoConstraints="NO" id="gP6-E0-0op">
-                                <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" semanticContentAttribute="forceLeftToRight" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="FalloutPB-Featured.jpg" translatesAutoresizingMaskIntoConstraints="NO" id="gP6-E0-0op">
+                                <rect key="frame" x="0.0" y="0.0" width="667" height="375"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
                         </subviews>
@@ -31,10 +31,10 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="iYj-Kq-Ea1" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="52" y="374.66266866566718"/>
+            <point key="canvasLocation" x="51.724137931034484" y="373.60000000000002"/>
         </scene>
     </scenes>
     <resources>
-        <image name="imageedit_2_7684581164.jpg" width="500" height="1000"/>
+        <image name="FalloutPB-Featured.jpg" width="1200" height="600"/>
     </resources>
 </document>
